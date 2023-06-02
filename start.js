@@ -19,7 +19,7 @@ function getCookie(cname) {
     return "";
 }
 function starthacks() {
-  $.get("https://scratchhacks.github.io/people.txt").success(function(data){ 
+  $.get("https://supers0n1k.github.io/suss/people.txt").success(function(data){ 
  people = data;
  
 });
